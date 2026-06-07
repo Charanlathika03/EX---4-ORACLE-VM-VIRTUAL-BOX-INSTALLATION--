@@ -151,4 +151,4 @@ For Windows:
 
 
 ## RESULT
-Thus, this experiment helped in under
+Thus, this experiment helped in underrstanding the fundamentals of Linux commands and Bash scripting for automation and system management.
